@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: autonomous_target_following_with_monocular_camera_on_UAV_using_R-RANSAC_tracker.aux
+The style file: ieeetr.bst
+Database file #1: myreference.bib
+Repeated entry---line 233 of file myreference.bib
+ : @inproceedings{Niedfeldt2014
+ :                             ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "?"
+You've used 19 entries,
+            1876 wiz_defined-function locations,
+            603 strings with 7132 characters,
+and the built_in function-call counts, 5652 in all, are:
+= -- 588
+> -- 175
+< -- 0
++ -- 66
+- -- 47
+* -- 384
+:= -- 749
+add.period$ -- 20
+call.type$ -- 19
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 300
+empty$ -- 541
+format.name$ -- 47
+if$ -- 1396
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 16
+newline$ -- 61
+num.names$ -- 19
+pop$ -- 71
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 242
+stack$ -- 0
+substring$ -- 452
+swap$ -- 137
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 57
+width$ -- 21
+write$ -- 187
+(There was 1 error message)

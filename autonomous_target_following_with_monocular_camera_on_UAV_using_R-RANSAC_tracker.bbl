@@ -1,0 +1,99 @@
+\begin{thebibliography}{10}
+
+\bibitem{Saunders2011}
+J.~Saunders and R.~W. Beard, ``{Visual Tracking in Wind with Field of View
+  Constraints},'' {\em International Journal of Micro Air Vehicles}, vol.~3,
+  pp.~169--182, sep 2011.
+
+\bibitem{Rysdyk2006}
+R.~Rysdyk, ``{Unmanned Aerial Vehicle Path Following for Target Observation in
+  Wind},'' {\em Journal of Guidance, Control, and Dynamics}, vol.~29,
+  pp.~1092--1100, sep 2006.
+
+\bibitem{Dobrokhodov2006}
+V.~Dobrokhodov, I.~Kaminer, K.~Jones, and R.~Ghabcheloo, ``{Vision-based
+  tracking and motion estimation for moving targets using small UAVs},'' in
+  {\em 2006 American Control Conference}, p.~6 pp., IEEE, 2006.
+
+\bibitem{Qadir2011}
+A.~Qadir, J.~Neubert, W.~Semke, and R.~Schultz, ``{On-Board Visual Tracking
+  With Unmanned Aircraft System (UAS)},'' in {\em Infotech@Aerospace 2011},
+  (Reston, Virigina), p.~9, American Institute of Aeronautics and Astronautics,
+  mar 2011.
+
+\bibitem{Theodorakopoulos2008}
+P.~Theodorakopoulos and S.~Lacroix, ``{A strategy for tracking a ground target
+  with a UAV},'' in {\em 2008 IEEE/RSJ International Conference on Intelligent
+  Robots and Systems}, pp.~1254--1259, IEEE, sep 2008.
+
+\bibitem{Pestana2013}
+J.~Pestana, J.~L. Sanchez-Lopez, P.~Campoy, and S.~Saripalli, ``{Vision based
+  GPS-denied Object Tracking and following for unmanned aerial vehicles},'' in
+  {\em 2013 IEEE International Symposium on Safety, Security, and Rescue
+  Robotics (SSRR)}, pp.~1--6, IEEE, oct 2013.
+
+\bibitem{Thomas2017}
+J.~Thomas, J.~Welde, G.~Loianno, K.~Daniilidis, and V.~Kumar, ``{Autonomous
+  Flight for Detection, Localization, and Tracking of Moving Targets With a
+  Small Quadrotor},'' {\em IEEE Robotics and Automation Letters}, vol.~2,
+  pp.~1762--1769, jul 2017.
+
+\bibitem{Teuliere2011}
+C.~Teuliere, L.~Eck, and E.~Marchand, ``{Chasing a moving target from a flying
+  UAV},'' {\em IEEE International Conference on Intelligent Robots and
+  Systems}, pp.~4929--4934, 2011.
+
+\bibitem{Kim2013}
+J.~Kim and D.~H. Shim, ``{A vision-based target tracking control system of a
+  quadrotor by using a tablet computer},'' in {\em 2013 International
+  Conference on Unmanned Aircraft Systems (ICUAS)}, pp.~1165--1172, IEEE, may
+  2013.
+
+\bibitem{Hurak2012}
+Z.~Hurak and M.~Rezac, ``{Image-Based Pointing and Tracking for Inertially
+  Stabilized Airborne Camera Platform},'' {\em IEEE Transactions on Control
+  Systems Technology}, vol.~20, pp.~1146--1159, sep 2012.
+
+\bibitem{Lee2012}
+D.~Lee, T.~Ryan, and H.~J. Kim, ``{Autonomous landing of a VTOL UAV on a moving
+  platform using image-based visual servoing},'' in {\em 2012 IEEE
+  International Conference on Robotics and Automation}, pp.~971--976, IEEE, may
+  2012.
+
+\bibitem{Kalal2012}
+Z.~Kalal, K.~Mikolajczyk, and J.~Matas, ``{Tracking-Learning-Detection},'' {\em
+  IEEE Transactions on Pattern Analysis and Machine Intelligence}, vol.~34,
+  pp.~1409--1422, jul 2012.
+
+\bibitem{Niedfeldt2014}
+P.~C. Niedfeldt and R.~W. Beard, ``{Multiple target tracking using recursive
+  RANSAC},'' in {\em 2014 American Control Conference}, pp.~3393--3398, IEEE,
+  jun 2014.
+
+\bibitem{Quist2016}
+E.~B. Quist, P.~C. Niedfeldt, and R.~W. Beard, ``{Radar odometry with
+  recursive-RANSAC},'' {\em IEEE Transactions on Aerospace and Electronic
+  Systems}, vol.~52, no.~4, pp.~1618--1630, 2016.
+
+\bibitem{Wikle2012}
+J.~Wikle and T.~W. Mclain, ``Detection and tracking of multiple intruders using
+  the recursive-ransac algorithm state of practice.'' Utah Space Grant
+  Fellowship Symposium, 2012.
+
+\bibitem{Ingersoll2015}
+K.~Ingersoll, ``Vision based multiple target tracking using recursive ransac,''
+  Master's thesis, Brigham Young University, Provo, UT, 2015.
+
+\bibitem{Defranco2015}
+P.~Defranco, ``Detecting and tracking moving objects from a small unmanned air
+  vehicle,'' Master's thesis, Brigham Young University, Provo, UT, 2015.
+
+\bibitem{UAVbook}
+R.~W. Beard and T.~W. McLain, {\em Small Unmanned Aircraft Theory and
+  Practice}.
+\newblock Princeton, NJ: Princeton, 2012.
+
+\bibitem{mavros}
+V.~Ermakov, ``mavros.'' http://wiki.ros.org/mavros.
+
+\end{thebibliography}
